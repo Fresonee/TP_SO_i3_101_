@@ -11,3 +11,8 @@ Apellido: Sveda
 IP: 187.132.122.107
 Hora: 2024-11-14 11:47
 >>>>>>> 9e44aa2410fb5de4566e3724c060cefe421496ed
+========
+Nombre: Juan Francisco
+Apellido: Fresone
+IP:192.168.100.1
+HORA: 12:00
