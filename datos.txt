@@ -1,3 +1,6 @@
 Nombre: Orlando Diaz 
 IP: 192.168.0.1 
 Hora: 10:38
+Nombre: Patricio Sveda
+IP: 186.132.122.107
+Hora: 10:54
