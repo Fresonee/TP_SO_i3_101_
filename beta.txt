@@ -50,3 +50,52 @@ Adaptador de t£nel Teredo Tunneling Pseudo-Interface:
    Direcci¢n IPv6 . . . . . . . . . . : 2001:0:2877:7aa:38fe:8947:4584:77ec
    V¡nculo: direcci¢n IPv6 local. . . : fe80::38fe:8947:4584:77ec%13
    Puerta de enlace predeterminada . . . . . : 
+
+Configuraci¢n IP de Windows
+
+
+Adaptador de Ethernet Ethernet 2:
+
+   Sufijo DNS espec¡fico para la conexi¢n. . : 
+   V¡nculo: direcci¢n IPv6 local. . . : fe80::1b7d:68ff:a998:ce92%10
+   Direcci¢n IPv4. . . . . . . . . . . . . . : 192.168.56.1
+   M scara de subred . . . . . . . . . . . . : 255.255.255.0
+   Puerta de enlace predeterminada . . . . . : 
+
+Adaptador de LAN inal mbrica Wi-Fi:
+
+   Estado de los medios. . . . . . . . . . . : medios desconectados
+   Sufijo DNS espec¡fico para la conexi¢n. . : 
+
+Adaptador de LAN inal mbrica Conexi¢n de  rea local* 1:
+
+   Estado de los medios. . . . . . . . . . . : medios desconectados
+   Sufijo DNS espec¡fico para la conexi¢n. . : 
+
+Adaptador de LAN inal mbrica Conexi¢n de  rea local* 10:
+
+   Estado de los medios. . . . . . . . . . . : medios desconectados
+   Sufijo DNS espec¡fico para la conexi¢n. . : 
+
+Adaptador de Ethernet Ethernet:
+
+   Sufijo DNS espec¡fico para la conexi¢n. . : 
+   Direcci¢n IPv6 . . . . . . . . . . : 2803:9800:b018:7d76:39a9:d8c6:195f:cf51
+   Direcci¢n IPv6 temporal. . . . . . : 2803:9800:b018:7d76:cd63:98c3:189:a22a
+   V¡nculo: direcci¢n IPv6 local. . . : fe80::215:c892:d768:f98d%7
+   Direcci¢n IPv4. . . . . . . . . . . . . . : 192.168.100.121
+   M scara de subred . . . . . . . . . . . . : 255.255.255.0
+   Puerta de enlace predeterminada . . . . . : fe80::1%7
+                                       192.168.100.1
+
+Adaptador de Ethernet Conexi¢n de red Bluetooth:
+
+   Estado de los medios. . . . . . . . . . . : medios desconectados
+   Sufijo DNS espec¡fico para la conexi¢n. . : 
+
+Adaptador de t£nel Teredo Tunneling Pseudo-Interface:
+
+   Sufijo DNS espec¡fico para la conexi¢n. . : 
+   Direcci¢n IPv6 . . . . . . . . . . : 2001:0:2877:7aa:38fe:8947:4584:77ec
+   V¡nculo: direcci¢n IPv6 local. . . : fe80::38fe:8947:4584:77ec%13
+   Puerta de enlace predeterminada . . . . . : 
