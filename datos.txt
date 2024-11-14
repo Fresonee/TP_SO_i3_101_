@@ -1,6 +1,13 @@
+<<<<<<< HEAD
 Nombre: Orlando Diaz 
 IP: 192.168.0.1 
 Hora: 10:38
 Nombre: Patricio Sveda
 IP: 186.132.122.107
 Hora: 10:54
+=======
+Nombre: Patricio
+Apellido: Sveda
+IP: 187.132.122.107
+Hora: 2024-11-14 11:47
+>>>>>>> 9e44aa2410fb5de4566e3724c060cefe421496ed
