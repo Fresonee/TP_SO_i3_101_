@@ -13,5 +13,19 @@ Si
  d-¿Las ramas creadas por BETA y GAMMA quedan con datos actualizados?
  e-¿Detalle (explique) los problemas que tuvieron al hacer el merge?
  f-¿que debió hacer (todos los comandos) en el punto 7 para poder hacer lo pedido?
- Responde ALFA:
+ 
+
+Responde ALFA:
  G-¿que debió hacer(todos los comandos) en el punto 8 para poder hacer lo pedido?
+G-los codigos que utilice fueron:
+
+git pull origin main
+git checkout fresone
+ifconfig
+nano beta.txt
+
+*Aqui puse mi nombre, apelido, ip hora, dia y la informacion de ifconfig*:
+
+git add beta.txt
+git commit -m "Modificado beta.txt con mis datos y salida de ifconfig"
+git push origin gomez_rama
