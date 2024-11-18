@@ -1,3 +1,14 @@
+Nombre: Patricio
+Apellido: Sveda
+IP: 187.132.122.107
+Hora: 2024-11-18 14:37
+informacion de ifconfig:
+3: enp0s3: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc fq_codel state UP group default qlen 1000
+    link/ether 08:00:27:53:8b:dc brd ff:ff:ff:ff:ff:ff
+    inet 192.168.1.103/24 brd 192.168.1.255 scope global dynamic enp0s3
+       valid_lft 86372sec preferred_lft 86372sec
+
+------------------------
 Apellido: Fresone
 Nombre: Juan
 Hora: 14:04
